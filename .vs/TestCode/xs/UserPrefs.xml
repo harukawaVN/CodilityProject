@@ -1,0 +1,83 @@
+﻿<Properties StartupConfiguration="{026E9B3B-CC4F-46E7-A8E6-F2D2542B196B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Codility PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestCodeTest/DiamondClassTest.cs">
+    <Files>
+      <File FileName="TestCode/Program.cs" Line="339" Column="24" />
+      <File FileName="Codility/Leader/Dominator.cs" />
+      <File FileName="CodilityTests/DominatorTests.cs" />
+      <File FileName="CodilityTests/EmptyClass.cs" />
+      <File FileName="Codility/Leader/EquiLeader.cs" />
+      <File FileName="Codility/MaxSlice/SumMax.cs" />
+      <File FileName="CodilityTests/MaxSliceTests.cs" />
+      <File FileName="Codility/MaxSlice/MaxProfit.cs" />
+      <File FileName="Codility/TimeComplexity/TapeEquilib.cs" />
+      <File FileName="Codility/MaxSlice/MaxDoubleSlice.cs" />
+      <File FileName="CodilityTests/CyclicRotationTests.cs" />
+      <File FileName="CodilityTests/FogJumpTests.cs" />
+      <File FileName="CodilityTests/MissingElementTests.cs" />
+      <File FileName="CodilityTests/TapeEquilibTests.cs" />
+      <File FileName="Codility/BinaryGap/BinaryGap.cs" />
+      <File FileName="Codility/TimeComplexity/MissingElement.cs" />
+      <File FileName="Codility/TimeComplexity/FogJump.cs" />
+      <File FileName="Codility/Arrays/OddOccurrencesInArray.cs" />
+      <File FileName="Codility/Sorts/QuickSort.cs" />
+      <File FileName="CodilityTests/SortTests.cs" />
+      <File FileName="Codility/Sorts/MergeSort.cs" />
+      <File FileName="Codility/PrefixSum/PassingCars.cs" />
+      <File FileName="Codility/Program.cs" />
+      <File FileName="CodilityTests/BinaryGap.cs" />
+      <File FileName="TestCode/DateTimeTest.cs" />
+      <File FileName="TestCode/WaterTankMonitor.cs" />
+      <File FileName="TestCode/SortAlgorithms.cs" />
+      <File FileName="TestCode/3WayPatition.cs" />
+      <File FileName="TestCode/BinarySearch.cs" />
+      <File FileName="TestCode/GameOfLife.cs" />
+      <File FileName="TestCode/SquareMax.cs" />
+      <File FileName="TestCode/SuperOrder.cs" />
+      <File FileName="TestCode/HashObject.cs" />
+      <File FileName="TestCode/HashMapLinkedImpl.cs" />
+      <File FileName="TestCode/DiamondClass.cs" />
+      <File FileName="TestCodeTest/DiamondClassTest.cs" Line="22" Column="2" />
+      <File FileName="TestCodeTest/LinkedListHashMapTest.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestCode" expanded="True">
+            <Node name="CodilityTests" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TestCode" expanded="True" />
+            <Node name="TestCodeTest" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="DiamondClassTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TestCode" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>TestCode/TestCode.csproj</String>
+    <String>TestCodeTest/TestCodeTest.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/hatruong/Projects/Test/TestCode/Codility/Sorts/QuickSort.cs" relfile="Codility/Sorts/QuickSort.cs" line="12" column="1" />
+      <Breakpoint file="/Users/hatruong/Projects/Test/TestCode/TestCode/HashMapLinkedImpl.cs" relfile="TestCode/HashMapLinkedImpl.cs" line="11" column="1" />
+      <Breakpoint file="/Users/hatruong/Projects/Test/TestCode/TestCodeTest/LinkedListHashMapTest.cs" relfile="TestCodeTest/LinkedListHashMapTest.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
